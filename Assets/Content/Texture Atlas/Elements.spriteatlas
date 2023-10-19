@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Elements
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ef24fcc448b248f4bb2fa19157deca29, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a14c4440f27758e468cda26786527aeb, type: 3}
+  - {fileID: 21300000, guid: 3fd7c4a1fc7a6c648ba28351f141ebb4, type: 3}
+  - {fileID: 21300000, guid: 58198cb2c56416141bf4f88a26b0ed99, type: 3}
+  - {fileID: 21300000, guid: a76ae983a4130bc42ad30321337a9337, type: 3}
+  - {fileID: 21300000, guid: b4ea1ea58faaa714ba9fc7e7f21c047b, type: 3}
+  - {fileID: 21300000, guid: 506461f5e9d20e84c89f4c9ab4903093, type: 3}
+  - {fileID: 21300000, guid: c2a50848f8c45ac4b928864c439909ad, type: 3}
+  - {fileID: 21300000, guid: 7f8c7848c74b46a4cb15890dabbfb8e2, type: 3}
+  - {fileID: 21300000, guid: 0c1fdbf83e533644bbeaa0f7a38b10f5, type: 3}
+  - {fileID: 21300000, guid: fb17f22964d141e4783155350fc624f1, type: 3}
+  - {fileID: 21300000, guid: 00cc6829cc252404aaa710dda96d3624, type: 3}
+  - {fileID: 21300000, guid: 5769d85ca269a6d4c8d6e1fe1c6deb93, type: 3}
+  - {fileID: 21300000, guid: 45e0a1cc6cf551148ad3ac8274dee1c3, type: 3}
+  - {fileID: 21300000, guid: 9e74259ec4a4f9b408cd9c5b348f781e, type: 3}
+  - {fileID: 21300000, guid: 8690600f29f3f344998ad685164941d4, type: 3}
+  - {fileID: 21300000, guid: dd3375afc193fdb4799d573fa96ec13b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - worldMap
+  - MenuButton
+  - dock
+  - Bar_Top_Right 1
+  - bar_background
+  - topDock
+  - menuEntryAlternative
+  - chatBackground
+  - bar
+  - button
+  - bar_top_left
+  - progressBar
+  - bottomDock
+  - bar_top_right
+  - menuEntryBar
+  - Bar_Top_Left 1
+  m_RenderDataMap: {}
+  m_Tag: Elements
+  m_IsVariant: 0

@@ -1,0 +1,6 @@
+[submodule "Assets/Script/Core"]
+	path = Assets/Script/Core
+	url = https://github.com/Parallel-Origin/PO-Core.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/Parallel-Origin/PO-Core.git

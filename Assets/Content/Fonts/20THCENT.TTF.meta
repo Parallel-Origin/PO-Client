@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1e6f3c23f21a1cd4dba4df652a16b293
+timeCreated: 1513196349
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 20th Century Font
+  fontNames:
+  - 20th Century Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

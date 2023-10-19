@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd0818f1e82e483f9a556485b233039c, type: 3}
+  m_Name: WoveRunClip
+  m_EditorClassIdentifier: 
+  clipName: C_Run
+  clip:
+    m_AssetGUID: 729fc52c8da44c541b2d9938a0016c08
+    m_SubObjectName: C_Run

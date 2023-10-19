@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0d4be65de5ac2ff42b0b360a2fde4700, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a14c4440f27758e468cda26786527aeb, type: 3}
+  - {fileID: 21300000, guid: e0678b400f6a43f4ebed1e60465b0b6e, type: 3}
+  - {fileID: 21300000, guid: 7d578590bc5de89408e0aa1b73bcf815, type: 3}
+  - {fileID: 21300000, guid: d9c92ea0391c4ff488adb0c3ff216049, type: 3}
+  - {fileID: 21300000, guid: 505084f0af938bd45889d96a1d362f98, type: 3}
+  - {fileID: 21300000, guid: 377a6101ae280b84186dadb9d09be705, type: 3}
+  - {fileID: 21300000, guid: f8157f717b8c1584db4f31fb01c123a1, type: 3}
+  - {fileID: 21300000, guid: 3fd7c4a1fc7a6c648ba28351f141ebb4, type: 3}
+  - {fileID: 21300000, guid: 03e967e157c699340a38b3d99d0dc35b, type: 3}
+  - {fileID: 21300000, guid: 58198cb2c56416141bf4f88a26b0ed99, type: 3}
+  - {fileID: 21300000, guid: 7a29ae03c6ca97745bab2458fbdd3375, type: 3}
+  - {fileID: 21300000, guid: a76ae983a4130bc42ad30321337a9337, type: 3}
+  - {fileID: 21300000, guid: 5af513d3846091148a259d03b860446f, type: 3}
+  - {fileID: 21300000, guid: 39abb93480fdb494fbfd33be1591aaf5, type: 3}
+  - {fileID: 21300000, guid: 9438a2647cdd11a45a36181bb946dc49, type: 3}
+  - {fileID: 21300000, guid: d784cb64ff559aa4f87fc082c1df31e5, type: 3}
+  - {fileID: 21300000, guid: 8c5401947ec147a479fa0866f8dcd39d, type: 3}
+  - {fileID: 21300000, guid: 0f898cf4c1c24c04f8f7b653198df26a, type: 3}
+  - {fileID: 21300000, guid: 7780e435d77d70d4cb027ee909bcd07e, type: 3}
+  - {fileID: 21300000, guid: 9ae37275c377a5143b77f224356afc63, type: 3}
+  - {fileID: 21300000, guid: b4ea1ea58faaa714ba9fc7e7f21c047b, type: 3}
+  - {fileID: 21300000, guid: 970cfde56bed6c946b228bef34bed001, type: 3}
+  - {fileID: 21300000, guid: 506461f5e9d20e84c89f4c9ab4903093, type: 3}
+  - {fileID: 21300000, guid: f911e7a6e7fbe1643a7aafd3ee65c06c, type: 3}
+  - {fileID: 21300000, guid: 4dcbb8474382e864894e440ce0704825, type: 3}
+  - {fileID: 21300000, guid: cf210ed7274b7194c898ad9844e7e41d, type: 3}
+  - {fileID: 21300000, guid: 5d9ba4e7d0964044ea54abe409d81dfd, type: 3}
+  - {fileID: 21300000, guid: 662436382e5ea9f45b001578de7686ab, type: 3}
+  - {fileID: 21300000, guid: c2a50848f8c45ac4b928864c439909ad, type: 3}
+  - {fileID: 21300000, guid: 7f8c7848c74b46a4cb15890dabbfb8e2, type: 3}
+  - {fileID: 21300000, guid: 62be0978ac22ef044959ae1148b0f3ea, type: 3}
+  - {fileID: 21300000, guid: fbebf9789c9e8144191040f52bbde6cf, type: 3}
+  - {fileID: 21300000, guid: 7d3a3fa8b44cec6458108d31d7d98280, type: 3}
+  - {fileID: 21300000, guid: 0c1fdbf83e533644bbeaa0f7a38b10f5, type: 3}
+  - {fileID: 21300000, guid: cc872b09ebe01ad4597be0f067556799, type: 3}
+  - {fileID: 21300000, guid: fb17f22964d141e4783155350fc624f1, type: 3}
+  - {fileID: 21300000, guid: 00cc6829cc252404aaa710dda96d3624, type: 3}
+  - {fileID: 21300000, guid: 1a7829d9be5e89e4389ed350395f76f5, type: 3}
+  - {fileID: 21300000, guid: b9b42bf93a7efad4d9b51abd75e8f7d9, type: 3}
+  - {fileID: 21300000, guid: b13a100a39efe8348aefcd60c57ca06b, type: 3}
+  - {fileID: 21300000, guid: cbc9f93a3f1e4444ca188e5d2d9b9eca, type: 3}
+  - {fileID: 21300000, guid: deacf99a922304246b750cba42ef5a67, type: 3}
+  - {fileID: 21300000, guid: 1923fb3bca311fa4a89b8e26a97deee2, type: 3}
+  - {fileID: 21300000, guid: 1ee6c55bbaea1ec4aa311970ed52fdf5, type: 3}
+  - {fileID: 21300000, guid: ae72f77b6a598ec4ebed6a24ad60d9e2, type: 3}
+  - {fileID: 21300000, guid: 9b09ef9beb44f4949988b2001f94da39, type: 3}
+  - {fileID: 21300000, guid: b261f10c0f70c1c4593103c81e8fea78, type: 3}
+  - {fileID: 21300000, guid: dd2c303ce70b44f4ebd269a8b3d50840, type: 3}
+  - {fileID: 21300000, guid: ee44345cf0e1b9f42be243ac013297e4, type: 3}
+  - {fileID: 21300000, guid: 5769d85ca269a6d4c8d6e1fe1c6deb93, type: 3}
+  - {fileID: 21300000, guid: 32b9c29ca4b9076419f9c937b659cd76, type: 3}
+  - {fileID: 21300000, guid: c6d9dbbc2e2209440b452d19707fe2c0, type: 3}
+  - {fileID: 21300000, guid: 45e0a1cc6cf551148ad3ac8274dee1c3, type: 3}
+  - {fileID: 21300000, guid: cfeac1dca46145149986cd971097c16f, type: 3}
+  - {fileID: 21300000, guid: 7e8ec4ec639d5bb41a3ce02195023ed0, type: 3}
+  - {fileID: 21300000, guid: 38cee3fc881fda747afbabce569a8f07, type: 3}
+  - {fileID: 21300000, guid: a77d46fc86690d14382944b64d55ede1, type: 3}
+  - {fileID: 21300000, guid: dd8a285d90e75404ba2627ff819887ed, type: 3}
+  - {fileID: 21300000, guid: 12d5c56dbc6839e4e97c254dee62ee80, type: 3}
+  - {fileID: 21300000, guid: c876f08dc78fa2a4abaf1f324b41f5f2, type: 3}
+  - {fileID: 21300000, guid: ff0704dd019fa9e46b3889c396b000a1, type: 3}
+  - {fileID: 21300000, guid: ced41bed36cca3947ab66ace7383b7ea, type: 3}
+  - {fileID: 21300000, guid: ce3b9b4ea80419445a32d25d8e06dda7, type: 3}
+  - {fileID: 21300000, guid: 1f0bea5ef1135cd478858e201084fd62, type: 3}
+  - {fileID: 21300000, guid: 2df3316e3459c4b4ca0db6cad178385e, type: 3}
+  - {fileID: 21300000, guid: 9e74259ec4a4f9b408cd9c5b348f781e, type: 3}
+  - {fileID: 21300000, guid: 635dfbfe3f4d992409d1751bf76a754c, type: 3}
+  - {fileID: 21300000, guid: 8690600f29f3f344998ad685164941d4, type: 3}
+  - {fileID: 21300000, guid: 06efb04fbac9524489e9bd11a87b14f2, type: 3}
+  - {fileID: 21300000, guid: 690f53af101f3774fb1b456a64214862, type: 3}
+  - {fileID: 21300000, guid: dd3375afc193fdb4799d573fa96ec13b, type: 3}
+  - {fileID: 21300000, guid: 113676dfa8758fc4a99a960c01b7063c, type: 3}
+  - {fileID: 21300000, guid: 79e423ff5c2965f4d9e1b729dbab3063, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - worldMap
+  - po_app_icon
+  - swordIcon
+  - profileIcon
+  - rightArrow
+  - goldIcon
+  - buildIcon
+  - MenuButton
+  - craftIcon
+  - dock
+  - checkmark
+  - Bar_Top_Right 1
+  - socialIcon
+  - swordIcon
+  - skillsIcon
+  - coffeeIcon
+  - shieldIcon
+  - pumpkin
+  - messagesIcon
+  - spaceshipIcon
+  - bar_background
+  - femenine
+  - topDock
+  - button
+  - contentIcon
+  - blueBanner
+  - apple
+  - inventoryIcon
+  - menuEntryAlternative
+  - chatBackground
+  - gearIcon
+  - textBar
+  - construction
+  - bar
+  - woodIcon
+  - button
+  - bar_top_left
+  - leather
+  - shield
+  - coin
+  - stoneIcon
+  - exitIcon
+  - errorIcon
+  - male
+  - xIcon_withoutCircle
+  - gearsIcon
+  - iron
+  - gold
+  - arrowBackIcon
+  - progressBar
+  - travelsIcon
+  - smallPopUp_frame
+  - bottomDock
+  - flagIcon
+  - wolve
+  - ironOreIcon
+  - candy
+  - Box
+  - giftBox
+  - smallPopUp
+  - miniTreeIcon
+  - questionIcon
+  - heart
+  - friendIcon
+  - frame
+  - bar_top_right
+  - xIcon
+  - menuEntryBar
+  - pickaxe
+  - buttonEgde
+  - Bar_Top_Left 1
+  - treeIcon
+  - manorIcon
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0

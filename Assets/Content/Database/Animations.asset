@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a06e8667a93f2345b707f1ca3d82c26, type: 3}
+  m_Name: Animations
+  m_EditorClassIdentifier: 
+  internalContentReference:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: []
+    _keys: []
+    _values: []
+  content:
+  - {fileID: 11400000, guid: a7d5295d6ef031b409b6f4d9d050028b, type: 2}
+  - {fileID: 11400000, guid: 7f3f66d4bc236e44ab79347c1100b404, type: 2}
+  - {fileID: 11400000, guid: d49b6fbe72ff3394f91fe027b1297d94, type: 2}
+  - {fileID: 11400000, guid: 20f07878f9c1f8441b5f00d9f3ccc995, type: 2}
